@@ -4,3 +4,5 @@
 # Responsive-Website-Media-Queries
 Demo agency website 
 Used Media Queries to add responsiveness to devices below 680px
+
+website live at [https://taufeeq-g.github.io/Responsive-Website-Media-Queries/]
